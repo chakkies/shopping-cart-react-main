@@ -4,7 +4,7 @@ import App from "./App";
 import {fetchData, getFetchedData} from "./api";
 import { PRODUCTS } from "./products";
 import product6 from "./assets/products/6.webp";
-
+//
 
 
 
